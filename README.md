@@ -5,4 +5,7 @@ Simple UI to accept mathematical expression with parentheses and  provide with s
 
 # How
 Step 1: Recursively solve the parenthesized expressions.
-Step 2: Solve the expression based on precedence rules
+
+Step 2: Substitute the result back into the expression.
+
+Step 3: Solve the expression based on precedence rules.
